@@ -15,6 +15,10 @@ public class Main {
 		Vehicle scooter = new Scooter();
 		scooter.start();
 		
+		
+		Vehicle v1= new Scooter();
+		v1.show();
+		
 	}
 
 }
