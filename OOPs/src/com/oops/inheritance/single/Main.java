@@ -13,6 +13,7 @@ public class Main {
 		// we can't call any child class method.
 		Animal dog = new Dog();
 		dog.eatAnimal();
+		
 		//dog.bark();//compilation error
 		
 	// Child class can't store the object of parent class.
