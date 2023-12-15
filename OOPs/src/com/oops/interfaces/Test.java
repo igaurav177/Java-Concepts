@@ -10,6 +10,9 @@ public class Test implements I1,I2{
 	public void display() {
 		System.out.println("Test display method");
 	}
+	public void m1() {
+		System.out.println("m1 method");
+	}
 @Override
 	public void show1() {
 		System.out.println("show1 method");

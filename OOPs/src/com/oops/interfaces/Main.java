@@ -11,7 +11,12 @@ public class Main {
 		i.show();
 		i.display();
 				
-		I1.run();
+		I2 i2 = new Test();
+		i2.show1();
+		
+		
+		
+		// I1.run();
 		
 		
 		
