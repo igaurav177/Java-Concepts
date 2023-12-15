@@ -8,7 +8,7 @@ public class Main {
 		obj.show1();
 
 		
-		B obj2 =
+//		B obj2 = obj; // we cant do this
 		// down casting
 		B obj2 = (B) obj;
 		obj2.show2();
