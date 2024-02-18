@@ -16,5 +16,6 @@ public class Animal {
 		this.color=color;
 		System.out.println("age: "+age+"\nColor: "+color);
 	}
+	
 
 }

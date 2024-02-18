@@ -9,10 +9,12 @@ public class ArraylistEx {
 
 	public static void main(String[] args) {
 		ArrayList<Integer> al = new ArrayList<>();
+		
 		//Adding the element in array list
 		al.add(10);
 		al.add(20);
 		System.out.println(al);
+	
 		//size 
 		System.out.println(al.size());
 		//getting the element
@@ -43,6 +45,8 @@ public class ArraylistEx {
 			System.out.println(arr);
 			
 		
+		
+			
 		
 	}
 

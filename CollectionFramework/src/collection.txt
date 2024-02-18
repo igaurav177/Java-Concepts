@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/collections-in-java-2/
 
-Collection interface (It implements Iterable interface )
+Collection interface (It extends Iterable interface )
 from collection interface List,Set,Queue,Map these are extends from Collection Interface
 
 // List extends Collection 

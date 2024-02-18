@@ -2,7 +2,7 @@ package com.oops.polymorphism.overriding;
 
 public class Main {
 	public static void main(String args[]) {
-		// overloading / runtime polymorphism 
+		// overriding / runtime polymorphism 
 		Test t = new Test();
 		t.show(null);
 		
@@ -10,12 +10,15 @@ public class Main {
 		test.show(null);
 //		
 		Test tt = new Test2();
-		tt.show(null);
+//		tt.show(null);
+//		tt.show(null);
+		tt.m1();
+//		tt.a1();  // not possible
 		
 		
 		
 		
-		/* Method Overloading Points 
+		/* Method Overriding Points 
 		 * case1 : from java 5.0 onwards it is possible to have different
 		 * return type for a overriding methods in child class, but child's
 		 * return type should be sub-type of parent's return type.

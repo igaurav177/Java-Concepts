@@ -7,7 +7,7 @@ package com.oops.classobject;
  */
 /**
  * For class level modifiers are:
- * public, <default>, abstract , find , strictfp
+ * public, <default>, abstract , final , strictfp
  * for inner class level modifier are:
  * above 5 modifier + private, protected , static 
  * 

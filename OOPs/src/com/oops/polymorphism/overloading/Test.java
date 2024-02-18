@@ -7,5 +7,9 @@ public class Test {
 	void show(int a) {
 		System.out.println(a);
 	}
+	
+	void show (short a) {
+		System.out.println(a);
+	}
 
 }

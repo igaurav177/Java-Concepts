@@ -6,11 +6,12 @@ import java.util.Vector;
 public class VectorEx {
 
 	public static void main(String[] args) {
-			
+				
 				Vector<Integer> al = new Vector<>();
 				//Adding the element in Vector
 				al.add(10);
 				al.add(20);
+				
 				System.out.println(al);
 				//size 
 				System.out.println(al.size());

@@ -20,6 +20,7 @@ public class Main {
 		t.show();
 		t.show('a'); // automatic promotion
 		t.show('A'); // automatic promotion
+	
 		
 
 		
